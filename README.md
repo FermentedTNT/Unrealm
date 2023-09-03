@@ -1,6 +1,3 @@
-
-# Unrealm SMP Information
-
 ## General Information
 The server can be joined at `play.unrealm.net`, on Minecraft version 1.19.2. Other (sub)versions are not supported. Since Chunkbase or any other mapper will not output the correct data, you can visit [this custom web-based mapper](http://map.unrealm.net/).
 
