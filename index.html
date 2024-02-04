@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unrealm SMP | Practical Information</title>
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="style.css">
     <meta property="og:title" content="Unrealm SMP | Practical Information" />
     <meta property="og:type" content="website" />
@@ -13,20 +13,8 @@
     <meta property="og:image" content="assets/logo.png" />
 </head>
 <body>
-    <div id="markdown-content"></div>
-
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script>
-        // Fetch the Markdown file content
-        fetch('README.md')
-            .then(response => response.text())
-            .then(text => {
-                // Convert Markdown to HTML using marked.js
-                const html = marked(text);
-                // Render the HTML content in the designated div
-                document.getElementById('markdown-content').innerHTML = html;
-            })
-            .catch(error => console.error('Error fetching Markdown file:', error));
-    </script>
+    <div id="markdown-content">
+        {{ content }}
+    </div>
 </body>
 </html>
