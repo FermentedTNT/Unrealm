@@ -1,7 +1,7 @@
-## General Information
+# General Information
 The server can be joined at `play.unrealm.net`, on Minecraft version 1.19.2. Other (sub)versions are not supported. Since Chunkbase or any other mapper will not output the correct data, you can visit [this custom web-based mapper](http://map.unrealm.net/).
 
-## Modpacks
+### Modpacks
 
 To be able to join the server, you will need a certain collection of mods which can be found [here](https://1drv.ms/f/s!AumcJK-A0SbRgbU3GftZXkvskKbzKg?e=dm2r1p). There are three different modpacks which you can select:
 
@@ -135,4 +135,4 @@ If you encounter any issues while installing, contact `tayfaan` or `Tayfaan#4075
 - *[Structory](https://www.curseforge.com/minecraft/mc-mods/structory)* adds a ton of new structures to explore.
 - *[Towers of the Wild Additions](https://modrinth.com/mod/towers-of-the-wild-additions)* adds big tower structures to the Nether and End.
 
-## Have fun!
+### Have fun!
