@@ -1,7 +1,10 @@
 plugins:
   - jekyll-seo-tag
 
-title: Unrealm SMP | Practical Information
+title: Unrealm SMP Practical Information
 description: Unrealm SMP is a Minecraft server running the Create mod and a customised world generation system!
-logo: /assets/logo.png
+image:
+  path: ../assets/logo.png
+  height: 75
+  width: 75
 url: https://www.unrealm.net/
