@@ -1,10 +1,3 @@
----
-layout: default
-title: Unrealm SMP | Practical Information
-description: "Unrealm SMP is a Minecraft server running Create and a customised world generation system."
-image: "https://cdn.discordapp.com/attachments/842440225451147285/1203748455475060756/Unrealm_smp.png?ex=65d2391c&is=65bfc41c&hm=bbf05e5e6e9386c4adf5bc183cb1679a7e39c562e07ac62895ec1c86050259e6&"
----
-
 ## General Information
 The server can be joined at `play.unrealm.net`, on Minecraft version 1.19.2. Other (sub)versions are not supported. Since Chunkbase or any other mapper will not output the correct data, you can visit [this custom web-based mapper](http://map.unrealm.net/).
 
